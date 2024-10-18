@@ -1,5 +1,5 @@
 ## Loti의 flutter 개발 깃허브 👋
-
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 <!--
 **flow2c/flow2c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
